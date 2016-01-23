@@ -18,6 +18,6 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 [DOT/AIGA Symbol Signs](http://www.aiga.org/symbol-signs/)
 
-[National Park Service Map Symbols](www.nps.gov/hfc/carto/map-symbols.cfm)
+[National Park Service Map Symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm)
 
 [SEGD Healthcare Symbols](https://segd.org/healthcare-symbols)
